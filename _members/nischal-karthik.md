@@ -1,6 +1,6 @@
 ---
 name: Nischal Karthik
-image: images/photo.jpg
+image: images/team/nkarthik.png
 role: phd
 group: alum
 links:
