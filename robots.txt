@@ -1,1 +1,1 @@
-Sitemap: https://jitinb.github.io/test/sitemap.xml
+Sitemap: https://jitinb.github.io/scl/sitemap.xml
