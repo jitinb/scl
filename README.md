@@ -1,6 +1,6 @@
 
 # Scientific Computation Lab=Welcome to the Scientific Computation Lab Website, a gateway to our research, projects, and resources. Explore cutting-edge computational methods, access our publications, and connect with our team dedicated to advancing scientific discovery through high-performance computing.
 
-Visit **[jitinb.github.io/test](https://jitinb.github.io/test)** 🚀
+Visit **[jitinb.github.io/scl](https://jitinb.github.io/scl)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
